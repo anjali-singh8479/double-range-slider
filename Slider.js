@@ -49,25 +49,8 @@ function Slider() {
                 );
               }
             })()}
-            {/* {v2%10000000===0}
-          <>
-          <span>{v1}</span>
-            <span>-</span>
-            <span>{v2/10000000+"cr"}</span>
-          </> */}
-            {/* {v2%100000>=0 && v2<10000000?
-          <>
-            <span>{v1}</span>
-            <span>-</span>
-            <span>{v2/100000+"L"}</span>
-          </>:
-        
-          <>
-          <span>{v1}</span>
-            <span>-</span>
-            <span>{v2}</span></>
-          
-      } */}
+            
+         
           </div>
         </div>
 
